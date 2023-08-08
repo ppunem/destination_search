@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.main-heading {
+  color: #000000;
+  font-family: 'roboto';
+}
+.user-input {
+  background-color: #f1f5f9;
+  width: 20%;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: transparent;
+  height: 35px;
+  padding: 8px;
+}
