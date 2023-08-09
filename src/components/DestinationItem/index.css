@@ -1,1 +1,9 @@
 /* Write your CSS here */
+.individual-result {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  font-family: 'roboto';
+}

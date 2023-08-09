@@ -19,3 +19,7 @@
   height: 35px;
   padding: 8px;
 }
+.result-container {
+  display: flex;
+  justify-content: center;
+}
